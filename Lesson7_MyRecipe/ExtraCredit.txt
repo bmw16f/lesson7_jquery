@@ -1,0 +1,1 @@
+    For my recipe, I chose an edible cookie dough recipe. For jQuery method, I used append() to insert Enjoy after the instructions were completed. In addition, I used height(), to adjust the animation created.Finally, I used the DOM manipulation next().
